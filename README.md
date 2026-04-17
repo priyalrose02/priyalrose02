@@ -1,16 +1,22 @@
-## Hi there 👋
+# Affiliate Product Smart Viewer
 
-<!--
-**priyalrose02/priyalrose02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-powered affiliate product optimization tool.
 
-Here are some ideas to get you started:
+## Features
+- Product card generator
+- AI captions
+- Hashtag suggestions
+- Conversion score
+- Audience targeting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- React
+- JavaScript
+- CSS
+- OpenAI API
+
+## Live Demo
+Coming Soon
+
+## Screenshots
+Coming Soon
